@@ -1,5 +1,8 @@
 # Astro Starter Kit: Basics
 
+## From course
+[https://www.youtube.com/watch?v=ZpY5KdGQvwI&ab_channel=midudev](https://www.youtube.com/watch?v=RB5tR_nqUEw&ab_channel=midulive)
+
 ```sh
 npm create astro@latest -- --template basics
 ```
